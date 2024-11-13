@@ -2,7 +2,7 @@ import java.awt.BorderLayout;
 import java.awt.Font;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
-import java.io.BufferedReader;   
+import java.io.BufferedReader;    
 import java.io.InputStreamReader; 
 import java.io.PrintWriter;
 import java.net.Socket; 
