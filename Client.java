@@ -5,7 +5,7 @@ import java.awt.event.KeyListener;
 import java.io.BufferedReader;   
 import java.io.InputStreamReader; 
 import java.io.PrintWriter;
-import java.net.Socket;
+import java.net.Socket; 
 import javax.swing.BorderFactory;
 import javax.swing.ImageIcon;
 import javax.swing.JFrame;
